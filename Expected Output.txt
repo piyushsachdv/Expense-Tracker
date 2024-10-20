@@ -1,0 +1,43 @@
+Welcome to the Expense Tracker!
+
+Expense Tracker Menu:
+----------------------
+1. Add Expense
+2. View Expenses
+3. Delete Expense
+4. Exit
+----------------------
+
+Choose an option: 1
+
+Enter Expense Description: Food
+Enter Amount: $100.00
+Enter Date (YYYY-MM-DD): 2004-12-22
+Expense added successfully!
+
+----------------------
+Expense Tracker Menu:
+1. Add Expense
+2. View Expenses
+3. Delete Expense
+4. Exit
+----------------------
+
+Choose an option: 2
+
+Expenses Overview:
+----------------------
+1. Description: Food
+   Amount: $100.00
+   Date: 2004-12-22
+----------------------
+
+----------------------
+Expense Tracker Menu:
+1. Add Expense
+2. View Expenses
+3. Delete Expense
+4. Exit
+----------------------
+
+Choose an option:
